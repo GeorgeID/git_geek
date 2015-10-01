@@ -1,4 +1,4 @@
-print("hallow world")
-print("hallow friends")
-print("hallow")
-print("hallow twice")
+print("hallow world;")
+print("hallow friends;")
+print("hallow;")
+print("hallow twice;")
